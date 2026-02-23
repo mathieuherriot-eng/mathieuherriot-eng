@@ -6,10 +6,10 @@ I bridge the gap between complex industrial constraints and high-level strategic
 ---
 
 ### 💼 Expertise
-* **Verticals:** Luxury, Retail, and Infrastructure (Lyon-Turin Tunnel project).
-* **Strategic PLM:** 10+ years at Lectra, managing complex product lifecycles and license orchestration.
-* **Supply Chain Logic:** Architecting multi-channel flow management and data integrity for Tier-1 clients (Chanel).
-* **Data-Driven Insights:** Utilizing benchmarking tools (Retviews) to drive commercial growth and competitive advantage.
+* **Verticals:** Luxury, Retail, and Infrastructure.
+* **Strategic PLM:** 4+ years at Lectra, managing complex product lifecycles and license orchestration.
+* **Supply Chain Logic:** Architecting multi-channel flow management and data integrity for Tier-1 clients.
+* **Data-Driven Insights:** Utilizing benchmarking tools to drive commercial growth and competitive advantage.
 
 ### 🎓 Education
 * **Centrale Supélec:** Project Management & Technical Architecture Certification.
