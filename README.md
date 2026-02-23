@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Mathieu 👋
 
-<!--
-**mathieuherriot-eng/mathieuherriot-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Senior Solutions Engineer | Business Value Architect
+I bridge the gap between complex industrial constraints and high-level strategic outcomes. With 15+ years of experience, I specialize in transforming standard SaaS platforms into mission-critical engines for global leaders.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Expertise
+* **Verticals:** Luxury, Retail, and Infrastructure (Lyon-Turin Tunnel project).
+* **Strategic PLM:** 10+ years at Lectra, managing complex product lifecycles and license orchestration.
+* **Supply Chain Logic:** Architecting multi-channel flow management and data integrity for Tier-1 clients (Chanel).
+* **Data-Driven Insights:** Utilizing benchmarking tools (Retviews) to drive commercial growth and competitive advantage.
+
+### 🎓 Education
+* **Centrale Supélec:** Project Management & Technical Architecture Certification.
+
+### 🛠️ Technical Focus
+* **System Architecture:** Designing API integration logic and data normalization layers.
+* **Workflow Automation:** Mapping non-standard business requirements into scalable SaaS configurations.
+* **Agentic Workflows:** Exploring how AI agents can streamline Enterprise operations and CX.
+
+---
+*“Technical excellence is the baseline; delivering measurable business impact is the mission.”*
